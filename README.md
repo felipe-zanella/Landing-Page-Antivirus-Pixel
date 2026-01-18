@@ -1,2 +1,63 @@
 # Landing-Page-Antivirus-Pixel
 Desafio A - React.js e Tailwind CSS - Landing Page de Antivírus
+
+Histórico de desenvolvimento (principais features e mudanças ao longo do tempo)
+- O layout e a prototipação inicial foram feitos primeiramente no figma
+  
+Commits:
+-feat(assets): adicionando os assets da landing page (fontes e imagens)
+-feat(navbar): criando componente e adicionando a app.jsx
+-feat(navbar): criando e fixando a base da navbar
+-feat(navbar): adicionando itens da navbar
+-fix(navbar): ajeitando padding e proporções dos itens
+-feat(herosection): criando componente e adicionando a app.jsx
+-feat(herosection): adicionando imagem principal
+-fix(herosection): ajeitando proporções e redimensionamento da imagem
+-feat(herosection): adicionando itens e texto a esquerda
+-feat(herosection): animando botao de baixar
+-feat(herosection): adicionando reviews do trustpilot
+-feat(herosection): animando trustpilot
+-fix(herosection): ajeitando fonte e alinhamento do texto
+-feat(sobre): criando componente e adicionando a app.jsx
+-feat(sobre): adicionando grid da secao
+-feat(sobre): adicionando cada carta com imagem, titulo e descrição
+-fix(sobre): consertando margens da grid e melhorando compatibilidade com janelas menores
+-feat(sobre): adicionando logo ao topo da seção
+-feat(beneficios): criando componente e adicionando a app.jsx
+-feat(beneficios): adicionando titulo e subtitulo ao topo da seção
+-feat(beneficios): adicionando sombra ao texto
+-feat(navbar): adicionando sombra a navbar
+-feat(sobre): adicionando sombra a logo
+-feat(beneficios): criando componente e adicionando a app.jsx
+-feat(beneficios): criando tabela de comparacao do antivirus
+-feat(beneficios): adicionando checkmarks e x do lucide-react
+-fix(beneficios): margens erradas em tamanhos diferentes de tela
+-feat(beneficios): adicionando recursos à coluna da esquerda
+-feat(beneficios): adicionando cores as colunas de antivirus
+-feat(beneficios): colocando checkmarks e x na tabela
+-feat(depoimentos): criando componente e adicionando a app.jsx
+-feat(depoimentos): adicionando grade dos depoimentos e ja adaptando a telas
+-feat(depoimentos): desenhando cards dos depoimentos e adicionando falas 
+-feat(depoimentos): colocando fotos com bordas embaixo dos cards
+-feat(depoimentos): adicionando animaçao de tamanho de hover nos cards
+-fix(depoimentos): ajeitando imagens que nao aumentavam e hover errado quando card aumentava
+-feat(depoimentos): adicionando animaçao de cor (fica branco e texto preto) aos cards
+-feat(rodape): criando componente e adicionando a app.jsx
+-feat(rodape): criando rodape e fixando no fundo da pagina
+-feat(rodape): adicionando numero e email
+-feat(rodape): adicionando icones de telefone e email do lucide-react ao lado do numero e email de contato
+-feat(rodape): adicionando endereço
+-feat(rodape): adicionando link do instagram com borda circular branca
+-fix(rodape): ajeitando link nao funcionando do instagram
+-feat(rodape): adicionando animaçao ao botao do link
+-feat(rodape): colocando logo do antivirus no final
+-feat(sobre): animaçao de sombra no hover sobre as cartas
+-feat(landing-page): adicionando linhas para a divisão das seçoes
+-feat(navbar): adicionando links que scrollam para a seção certa
+-fix(navbar): consertando o scroll que teleportava
+-fix(landing-page): consertando problemas de escala da janela
+-feat(landing-page): adicionando sombra aos textos que faltavam
+-fix(landing-page): ajeitando padding de varias seções
+-feat(beneficios): adicionando observação abaixo da tabela
+-feat(navbar): adicionando logo e animaçao de cor aos itens da navbar
+-fix(landing-page): ajeitando problemas finais de tamanho e ajustando margens das seções 
